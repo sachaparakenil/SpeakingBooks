@@ -1,7 +1,6 @@
 const footer = document.querySelector('#footer');
 footer.innerHTML = `
-<p class="secondary">Designed and Managed by <a target="_blank" href="https://github.com/yashghori">Yash
-Ghori</a></p>
+<p class="secondary">Designed and Managed by <a target="_blank" href="https://github.com/sachaparakenil">Kenil Sachapara</a></p>
 <p class="secondary"> Speaking Books &copy; 2021-22 </p>
 <div class="secondary">
     <a href="#" class="twitter"><i class="fab fa-twitter"></i></a>
